@@ -1,0 +1,18 @@
+{
+	"params" :
+	{
+		"local_server" :"True",
+		"local_uri" : "mysql://root@localhost/flask_and_python",
+		"prod_uri" : "mysql://root@localhost/flask_and_python",
+		"fb_uri" : "facebook.com/raftaarrashedin",
+		"tw_uri" : "twitter.com/raftaarrashedin",
+		"insta_uri" : "instagarm.com/raftaarrashedin",
+		"google_plus_uri" : "google_plus.com/raftaarrashedin",
+		"linkedin_uri" : "linkedin.com/raftaarrashedin",
+
+		"gmailuser" : "raftaarrashedin100@gmail.com",
+		"gmailpassword" : "",
+
+    	"about_text": "Hi my name is harry and I create programming tutorials and I am a good boy"
+	}
+}
